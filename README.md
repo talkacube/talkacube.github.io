@@ -1,3 +1,3 @@
-# T7one Coding Website
+# TalkaCube Website
 
-The official website for T7one Coding.
+The official website for TalkaCube.
